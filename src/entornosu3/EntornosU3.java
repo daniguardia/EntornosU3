@@ -1,8 +1,8 @@
 package entornosu3;
 
 /**
- *
- * @author guard
+ * comentario con el nombre del autor
+ * @Daniel Guardia Martinez
  */
 public class EntornosU3 {
 
